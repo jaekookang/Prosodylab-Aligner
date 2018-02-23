@@ -1,5 +1,8 @@
 # Prosodylab-Aligner, v. 1.1
 
+2018-02-23 JK, fixed for resample issue (float -> int)
+	       added example, dict
+
 Scripts for alignment of laboratory speech production data
 
 * Kyle Gorman <gormanky@ohsu.edu>
